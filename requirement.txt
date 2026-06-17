@@ -1,0 +1,14 @@
+opencv-python-headless==4.10.0.84
+mediapipe==0.10.14
+
+tflite-runtime==2.16.1
+
+numpy<2.0
+
+scipy==1.13.1
+
+bleak==0.22.3
+
+customtkinter==5.2.2
+
+Pillow==10.4.0
